@@ -1,0 +1,40 @@
+h2{
+    background-color: rgb(255, 123, 0);
+    font-weight: 50px;
+    color: rgb(50, 66, 205);
+    top: 50px;
+    display: inline-block;
+}
+body :hover{
+    background-color: rgb(252, 14, 240);
+}  
+button{
+    font-size:small;
+    color: black;
+    background-color: rgb(38, 216, 15);
+    position: relative;
+    left: 910px;
+    top: 10px;
+    
+}
+table {
+    background-color: rgb(231, 127, 127);
+    color:black;
+    
+}
+button{
+   color: rgb(255, 102, 0);
+   background-color: aqua;
+}
+b{
+    background-color: rgb(5, 170, 192);
+    height: 300px;
+    width: 300px;
+}
+form{
+    background-color: chartreuse;
+    color: blue;
+    display: flex;
+    
+    
+}
